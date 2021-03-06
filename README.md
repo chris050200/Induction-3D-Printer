@@ -6,7 +6,7 @@ Design files for a 3d printer to FDM print aluminum using an induction heated no
 
 
 
-![Screenshot](Screenshot3.PNG)
+![Screenshot](Screenshot3.jpg)
 
 
 ![Screenshot](Screenshot2.PNG)
