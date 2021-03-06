@@ -1,4 +1,4 @@
-# Induction 3D Printer
+# Induction 3D Metal Printer
 A 3d printer nozzle assembly capable of FDM printing aluminum using induction heating. Total build cost for nozzle assembly is ~100$
 
 ![Screenshot](Screenshot3.jpg)
