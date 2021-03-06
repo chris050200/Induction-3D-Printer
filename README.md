@@ -1,3 +1,3 @@
-# Induction-3D-Printer
+# Induction 3D Printer
 
-Open source design for a 3d printer to FDM print aluminum.
+CAD models for a 3d printer to FDM print aluminum. Contains CAD files for a .035 wire feed and induction heated nozzle
