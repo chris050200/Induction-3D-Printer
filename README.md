@@ -4,6 +4,6 @@ Design files for a 3d printer to FDM print aluminum. Contains CAD files for an .
 
 ![Screenshot](Screenshot.jpg)
 
-![Screenshot](Screenshot2.jpg)
+![Screenshot](Screenshot2.PNG)
 
 
