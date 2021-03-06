@@ -7,6 +7,4 @@ A 3d printer nozzle assembly capable of FDM printing aluminum using induction he
 
 ![Screenshot](Screenshot2.PNG)
 
-This was designed as a mod that can be retrofitted onto an existing FDM printer chassis, in this case an old CR-10. 
-
 ![Screenshot](Screenshot4.jpg)
